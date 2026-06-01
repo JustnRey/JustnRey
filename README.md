@@ -13,7 +13,7 @@ I am a student at Davao del Norte State College (DNSC) in Davao del Norte, Phili
 
 ## Portfolio
 
-Live portfolio site: https://justnrey.github.io
+Live portfolio site: https://justnrey.github.io/
 
 ---
 
