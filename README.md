@@ -13,13 +13,13 @@ I am a student at Davao del Norte State College (DNSC) in Davao del Norte, Phili
 
 ## Portfolio
 
-Live site: https://justnrey.github.io
+Live portfolio site: https://justnrey.github.io
 
 ---
 
 ## Projects
 
-### Justine Rey — Portfolio
+### Hiking Management System
 My personal portfolio website showcasing my projects and background as a student developer from DNSC.
 - Link: https://github.com/JustnRey/Justinerey
 
